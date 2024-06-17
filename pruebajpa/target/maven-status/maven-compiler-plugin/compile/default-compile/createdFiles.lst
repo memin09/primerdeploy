@@ -1,0 +1,16 @@
+com\Benjamin\pruebajpa\repository\IVehiculo.class
+com\Benjamin\pruebajpa\controller\Mascotacontroller.class
+com\Benjamin\pruebajpa\servicis\Mascotaservicis.class
+com\Benjamin\pruebajpa\servicis\IMascotaservicis.class
+com\Benjamin\pruebajpa\servicis\IPersonaservicis.class
+com\Benjamin\pruebajpa\servicis\PersonaServicis.class
+com\Benjamin\pruebajpa\model\Vehiculo.class
+com\Benjamin\pruebajpa\servicis\IVehiculoServicis.class
+com\Benjamin\pruebajpa\servicis\Vehiculoservicis.class
+com\Benjamin\pruebajpa\model\Persona.class
+com\Benjamin\pruebajpa\model\Mascota.class
+com\Benjamin\pruebajpa\repository\IMascotareposirory.class
+com\Benjamin\pruebajpa\controller\VehiculoControlle.class
+com\Benjamin\pruebajpa\repository\IPersonaRepository.class
+com\Benjamin\pruebajpa\PruebajpaApplication.class
+com\Benjamin\pruebajpa\controller\PersonaController.class
